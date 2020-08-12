@@ -6,6 +6,8 @@
 ### Marx Library
 ### Yale University
 ###
+### August 12, 2020
+###
 ################################################################################
 
 ## Research question: What is the percent increase in Covid-19 cases across states
